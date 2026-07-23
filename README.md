@@ -46,12 +46,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedfakhar747&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfakhar747&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=ahmedfakhar747&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
@@ -66,12 +60,15 @@
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_KAGGLE">
+<a href="https://www.kaggle.com/ahmedfakhar123">
   <img src="https://img.shields.io/badge/Kaggle-0EA5E9?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
 </div>
 
 ---
-
+<div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer"/>
+
+</div>
